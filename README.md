@@ -4,7 +4,7 @@
 
 ## 📌 Latest Overview:
 
-#### 🔭 I’m currently working on : A Open source destop to Empowering.freelancers<br><br>👯 I’m looking to collaborate on : More open sources<br><br>🤝 I’m looking for help with : Creating custom SQL from NoSQL <br><br>📫 How to reach me - ahasanular@gmail.com<br><br>⚡ Fun fact : Python has a module called antigravity<br>
+#### 🔭 I’m currently working on : A Open source destop to Empowering.freelancers<br><br>👯 I’m looking to collaborate on : More open sources<br><br>🤝 I’m looking for help with : Creating custom SQL from NoSQL <br><br>📫 How to reach me - ahasanular@gmail.com<br><br>⚡ Fun fact : Python has a module called antigravity
 
 <br>
 
@@ -32,13 +32,13 @@
 
 <br>
 
-### ✍️ Just for your motivation
+## ✍️ In Case Lack of Motivation
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
 
-## 😂 Hold on laugh a little
+## 😂 To Prevent BurnOut
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
