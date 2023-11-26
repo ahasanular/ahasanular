@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ahasanular&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahasanular&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
