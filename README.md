@@ -4,7 +4,7 @@
 
 ## 📌 Latest Overview:
 
-#### 🔭 I’m currently working on : A Open source destop to Empowering.freelancers<br><br>👯 I’m looking to collaborate on : More open sources<br><br>🤝 I’m looking for help with : Creating custom SQL from NoSQL <br><br>📫 How to reach me - ahasanular@gmail.com<br><br>⚡ Fun fact : Python has a module called antigravity
+#### 🔭 I’m currently working on : Database Administrations and Backend Development with Django and DRF<br><br>👯 I’m looking to collaborate on : More open sources<br><br>🤝 I’m looking for help with : Creating custom SQL from NoSQL <br><br>📫 How to reach me - ahasanular@gmail.com<br><br>⚡ Fun fact : Python has a module called antigravity
 
 <br>
 
